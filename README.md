@@ -39,7 +39,7 @@ Executables (`*.exe`) are ignored via `.gitignore`.
 
 | Topic                     |  Solved  |
 | ------------------------- |  :----:  |
-| Introductory Problems     |    11    |
+| Introductory Problems     |    12    |
 | Sorting and Searching     |    0     |
 | Dynamic Programming       |    0     |
 | Graph Algorithms          |    0     |
