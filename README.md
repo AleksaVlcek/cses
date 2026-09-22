@@ -37,26 +37,26 @@ Executables (`*.exe`) are ignored via `.gitignore`.
 
 ## Progress
 
-| Topic                     | Solved |
-| ------------------------- | :----: |
-| Introductory Problems     |   10    |
-| Sorting and Searching     |   0    |
-| Dynamic Programming       |   0    |
-| Graph Algorithms          |   0    |
-| Range Queries             |   0    |
-| Tree Algorithms           |   0    |
-| Mathematics               |   0    |
-| String Algorithms         |   0    |
-| Geometry                  |   0    |
-| Advanced Techniques       |   0    |
-| Sliding Window Problems   |   0    |
-| Interactive Problems      |   0    |
-| Bitwise Operations        |   0    |
-| Construction Problems     |   0    |
-| Advanced Graph Problems   |   0    |
-| Counting Problems         |   0    |
-| Additional Problems I     |   0    |
-| Additional Problems II    |   0    |
+| Topic                     |  Solved  |
+| ------------------------- |  :----:  |
+| Introductory Problems     |    11    |
+| Sorting and Searching     |    0     |
+| Dynamic Programming       |    0     |
+| Graph Algorithms          |    0     |
+| Range Queries             |    0     |
+| Tree Algorithms           |    0     |
+| Mathematics               |    0     |
+| String Algorithms         |    0     |
+| Geometry                  |    0     |
+| Advanced Techniques       |    0     |
+| Sliding Window Problems   |    0     |
+| Interactive Problems      |    0     |
+| Bitwise Operations        |    0     |
+| Construction Problems     |    0     |
+| Advanced Graph Problems   |    0     |
+| Counting Problems         |    0     |
+| Additional Problems I     |    0     |
+| Additional Problems II    |    0     |
 
 ## Note
 
